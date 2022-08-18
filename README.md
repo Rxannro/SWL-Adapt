@@ -20,7 +20,7 @@ Official implementation of SWL-Adapt.
 
 ## Quick Start
 
-Data preprocessing is included in main.py. Download the datasets and run SWL-Adapt as follows. This gives the performance of each evaluation with each user as the new user, and their average.
+Data preprocessing is included in main.py. Download the datasets and run SWL-Adapt as follows. This gives the performance of each evaluation with each user in the set of new users as the new user, and their average.
 ```
 python --data_path /path/to/dataset --dataset [realWorld, OPPORTUNITY, or PAMAP2] main.py 
 ```
