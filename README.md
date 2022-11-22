@@ -14,9 +14,9 @@ Official implementation of SWL-Adapt.
 
 | Dataset | Download Link |
 | -- | -- |
-| RealWorld | https://sensor.informatik.uni-mannheim.de/#dataset_realworld |
+| RealWorld | https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/dataset-realworld/ |
 | OPPORTUNITY | https://archive.ics.uci.edu/ml/datasets/opportunity+activity+recognition |
-| PAMAP2 | https://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring |
+| SBHAR | http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions |
 
 ## Quick Start
 
