@@ -22,5 +22,5 @@ This is the official repository for our paper: SWL-Adapt: An Unsupervised Domain
 
 Data preprocessing is included in main.py. Download the datasets and run SWL-Adapt as follows. This gives the performance of each evaluation with each user in the set of new users as the new user, and their average.
 ```
-python --data_path /path/to/dataset --dataset [realWorld, OPPORTUNITY, or PAMAP2] main.py 
+python main.py --data_path [/path/to/dataset] --dataset [realWorld, OPPORTUNITY, or PAMAP2] 
 ```
