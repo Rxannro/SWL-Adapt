@@ -1,5 +1,5 @@
-# SWL-Adapt
-Official implementation of SWL-Adapt.
+# SWL-Adapt (AAAI 2023)
+This is the official repository for our paper: SWL-Adapt: An Unsupervised Domain Adaptation Model with SampleWeight Learning for Cross-UserWearable Human Activity Recognition.
 
 ![SWL-Adapt_framework](https://user-images.githubusercontent.com/105044070/167120684-c0d2e0d9-872a-4acd-81b2-a887f3f0db1e.png)
 
